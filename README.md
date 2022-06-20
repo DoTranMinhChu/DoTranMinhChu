@@ -63,7 +63,7 @@
 
 
 <div align="center">
-  <a href="https://www.facebook.com/zeroryo25/" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100010245436007" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="dotranminhchu-facebook" />
   </a>
   <a href="mailto:dotranminhchu@gmail.com" target="top">
