@@ -45,20 +45,18 @@
 <br>
 
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<h2 align="center">😎 GitHub Stats 😎</h2>
 <br>
 <div align="left">
   <a href="#" title="Hungdev">
     <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoTranMinhChu&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-<!--   <img align="center" src="/images/hunggif.gif" width="240" height="150" style="margin-left: 100px;"> -->
     <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=DoTranMinhChu&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
+<h2 align="center">🔭 Where to find me 🔭</h2>
 <br>
-
 
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100010245436007" target="blank">
