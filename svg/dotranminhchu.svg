@@ -32,7 +32,7 @@
           width: 150%;
           margin-left: -25%;
           height: auto;
-          animation: rotate 120s linear infinite alternate;
+          animation: rotate 240s linear infinite alternate;
         }
 
         .container {
@@ -66,6 +66,7 @@
           margin-bottom: 30px;
           white-space: nowrap;
         }
+
 
         .skills {
           display: inline-flex;
